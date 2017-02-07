@@ -1,0 +1,22 @@
+{
+  "name": "@caffeinelogic/sample-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caffeinelogic/sample-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caffeinelogic/sample-cli/issues"
+  },
+  "bin": {
+    "test": "bin/test.js"
+  },
+  "homepage": "https://github.com/caffeinelogic/sample-cli#readme"
+}

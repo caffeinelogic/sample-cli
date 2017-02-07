@@ -2,7 +2,6 @@
   "name": "@caffeinelogic/sample-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "bin/test",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/caffeinelogic/sample-cli.git"
@@ -13,7 +12,7 @@
     "url": "https://github.com/caffeinelogic/sample-cli/issues"
   },
   "bin": {
-    "test": "bin/test.js"
+    "caffeine-test": "bin/caffeine-test.js"
   },
   "homepage": "https://github.com/caffeinelogic/sample-cli#readme"
 }

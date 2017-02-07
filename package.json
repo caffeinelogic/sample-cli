@@ -2,7 +2,7 @@
   "name": "@caffeinelogic/sample-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "bin/test.js",
+  "main": "bin/test",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/caffeinelogic/sample-cli.git"
